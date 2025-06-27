@@ -1,1 +1,1 @@
-# All my games made in pico-8
+# Collection of my pico-8 games
